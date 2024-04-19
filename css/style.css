@@ -1113,13 +1113,11 @@ footer .row {
   transition: all 0.5s;
 }
 .footer-social li:hover {
-  /* border-radius: 20%; */
-
-  box-shadow: 0px 0px 5px 1px var(--yellow);
-  border: none;
+  /* border: none; */
 }
-.footer-social li:hover img {
-  transform: scale(1.1);
+.footer-social li:hover{
+  /* transform: rotateY(180deg); */
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 /* --cfd-page--- */
