@@ -156,6 +156,9 @@ left: 38%;
 }
 }
 @media (max-width: 1199px) {
+  .main-video {
+    padding-top: 0;
+  }
   .refer-line {
     max-width: 711px;
   }
@@ -304,6 +307,14 @@ font-size: 28px;
 }
 }
 @media (max-width: 1024px) {
+  .main-video {
+    /* padding-top: 70px; */
+    top: -119px;
+  }
+  .hero-sec {
+    padding-top: 114px;
+    height: 69vh;
+}
   .hero-content h1 {
     font-size: 43px;
     margin-bottom: 19px;
@@ -438,6 +449,22 @@ font-size: 28px;
 }
 
 @media (max-width: 992px) {
+  .hero-sec {
+    height: 62vh;
+}
+.main-video {
+  top: -71px;
+}
+.hero-content p {
+  font-size: 19px;
+}
+.hero-content h1 {
+  font-size: 34px;
+  line-height: 54px
+}
+.hero-sec {
+  padding-top: 120px;
+}
   .refer-line {
     max-width: 531px;
 }
@@ -745,7 +772,8 @@ footer .row {
     line-height: 34px;
   }
   .hero-content p {
-    font-size: 19px;
+    font-size: 18px;
+    line-height: 17px;
   }
   .navbar {
     padding-top: 20px;
@@ -762,9 +790,6 @@ footer .row {
   .responsive-slide-img {
     display: flex;
     align-items: center;
-  }
-  .hero-content p {
-    line-height: 30px;
   }
   .hero-content p:last-child {
     margin-bottom: 30px;
@@ -948,6 +973,17 @@ footer .row {
 .refer-line {
   max-width: 494px;
 }
+.hero-sec {
+  padding-top: 20px;
+}
+.main-video {
+  padding-top: 0;
+  top: -150px;
+}
+.hero-sec {
+  height: 67vh;
+}
+
 }
 @media (max-width: 767px) {
 
@@ -977,8 +1013,20 @@ footer .row {
 
 }
 @media (max-width: 670px) {
-  .hero-content h1 {
-    font-size: 36px;
+
+  .hero-content p {
+    font-size: 14px;
+    line-height: 9px;
+}
+.hero-content h1 {
+  font-size: 30px;
+  line-height: 43px;
+}
+  .main-video {
+    padding-top: 0;
+  }
+  .hero-sec {
+    padding-top: 0;
   }
   .step-curv {
     left: 2%;
@@ -1515,8 +1563,8 @@ footer .row {
  padding-top: 60px;
 } */
 .hero-sec {
-  height: 68vh;
-  padding-top: 0;
+  height: 80vh;
+  padding-top: 40px;
 }
 .hero-content h1
 .choose-trade-data h3{
@@ -2051,6 +2099,10 @@ table td{
   /* .commis-ht.hero-pt{
     height: 75vh;
   } */
+  .hero-sec {
+    height: 68vh;
+    padding-top: 0px;
+  }
   .trading-herosec.hero-pt {
     padding-top: 114px;
     height: 98vh;
