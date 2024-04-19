@@ -1,0 +1,2210 @@
+@media (max-width: 1699px) {
+  .common-cfd-count .common-step-ab {
+    padding-left: 74px;
+}
+.common-step-ab1 {
+  top: 31%;
+  left: 40%;
+}
+.common-step-ab2 {
+  top: 17%;
+  right: 10%;
+}
+.refer-line{
+  left: 13%;
+}
+/* .demoaccount-hero .row{
+  padding-top: 134px;
+} */
+.demo-ac-hero .row{
+  padding-top: 134px;
+}
+}
+@media (max-width: 1599px) {
+  .step-curv {
+    top: 30%;
+    left: 10%;
+  }
+  .step-absolute-1 {
+    top: 48%;
+    left: 26%;
+  }
+  .common-step-curv {
+    position: absolute;
+    left: 10%;
+}
+  .step-absolute-2 {
+    top: 34%;
+    left: 53%;
+  }
+  .experience-col {
+    left: 3%;
+}
+}
+
+@media (min-width: 1199px) and (max-width: 1399px) {
+  .award-data div {
+    width: 239px;
+    height: 142px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .navbar-end .common-btn {
+    padding: 7px 12px;
+    font-size: 16px;
+  }
+  .navbar-end {
+    gap: 10px;
+  }
+  .demoaccount-hero {
+    height: 100vh;
+  }
+}
+@media (max-width: 1499px) {
+  .cfd {
+    padding-bottom: 123px;
+  }
+  .step-curv {
+    top: 29%;
+    left: 9%;
+  }
+  .step-absolute-1 {
+    left: 28%;
+  }
+  .step-absolute-2 {
+    left: 55%;
+    top: 33%;
+  }
+  .common-step-ab2 {
+    right: 9%;
+}
+
+}
+@media (max-width: 1440px) {
+  .award {
+    padding: 139px 0;
+  }
+
+  .cfd-head h3,
+  .cfd-head h2 {
+    font-size: 38px;
+  }
+  .cfd-box {
+    padding: 17px 9px;
+  }
+  .step-curv {
+    left: 11%;
+  }
+
+  .step-absolute-1 {
+    left: 32%;
+  }
+  .step-absolute-2 {
+    left: 59%;
+  }
+  /* .common-step-curv {
+    left: 11%;
+} */
+.common-step-curv {
+  left: 3%;
+}
+.common-step-ab1 {
+  left: 33%;
+}
+.common-step-ab2 {
+  right: 13%;
+}
+/* .hero-sec .container {
+  max-width: 1380px;
+} */
+}
+@media (max-width: 1399px) {
+  .step-absolute-2 {
+    left: 64%;
+  }
+  .whytrade-cols h3 {
+    padding: 0 20px;
+  }
+   .common-step-curv {
+    left: 5%;
+}
+/* .common-step-ab2 {
+  right: 0%;
+} */
+.leverage-por .col-12:first-child {
+  left: -61px;
+}
+.spread-left {
+  margin-left: -100px;
+}
+.available-keys {
+  padding: 39px 57px;
+}
+.common-step-ab1 {
+left: 38%;
+}
+.common-step-ab2 {
+  right: 5%;
+}
+}
+@media (max-width: 1299px) {
+  .common-step-ab2 {
+    right: 0%;
+  }
+  .step-curv {
+    left: 5%;
+}
+}
+@media (max-width: 1199px) {
+  .refer-line {
+    max-width: 711px;
+  }
+  .experience-col {
+    left: 0;
+}
+  .main-video video{
+    object-fit: contain;
+}
+  .trending-right-data h3 {
+    font-size: 31px;
+    line-height: 35px;
+  }
+  .list-content p {
+    margin-bottom: 14px;
+    line-height: 23px;
+  }
+  .trending {
+    padding-bottom: 90px;
+  }
+  .trending-left-data div img {
+    margin-bottom: -102px;
+  }
+  .step-curv {
+    left: 9%;
+    top: 35%;
+  }
+  .step-absolute-1 {
+    left: 37%;
+    top: 52%;
+  }
+  .step-absolute-2 {
+    left: 70%;
+    top: 39%;
+  }
+  .award-data div {
+    width: 210px;
+    height: 128px;
+  }
+  .cfd-tranding {
+    padding: 56px 0;
+  }
+  .cfd-pairs {
+    padding: 35px 0;
+}
+.cfd-Buying {
+  padding-bottom: 79px;
+/* .cfd-pairs .market-head{
+  text-align: start !important;
+} */
+}
+.commo-tranding {
+padding: 109px 0;
+}
+.common-step-curv {
+  left: 8%;
+  top: 20%;
+}
+.common-step-ab1 {
+  top: 35%;
+  left: 43%;
+}
+.common-step-ab2 {
+  top: 23%;
+  right: -2%;
+}
+.step-count-data p {
+  color: var(--white);
+  width: 100%;
+  max-width: 200px;
+}
+.commo-tranding .row:after {
+  left: 46.5%;
+}
+.scheme-data ul li{
+  font-size: 18px;
+  gap: 9px;
+}
+.scheme-data{
+  padding: 29px 18px 60px;
+  
+}
+.account-boxdata ul li {
+  line-height: 16px;
+}
+/* .account-hero-btn{
+  padding: 12px 33px;
+} */
+.account-hero-box h2 {
+font-size: 28px;
+}
+.market-tab .nav-tabs .nav-item .nav-link {
+  padding: 10px 42px;
+}
+.trade-global .row .col-12:last-child{
+  top: -1px;
+}
+.comission-price{
+  padding: 76px 0;
+}
+.weare-price.comission-price{
+ padding-bottom: 70px;
+}
+.leverage-por .col-12:first-child {
+  left: -113px;
+}
+.price .pricing-data .market-head h2 {
+  font-size: 34px;
+}
+
+.available-keys {
+  padding: 39px 32px;
+}
+.mt4-img img {
+  margin-bottom: -18px;
+}
+.mt4-price button:first-child{
+  margin-right: 10px;
+}
+.step-count-data h3{
+  width: 100%;
+  max-width: 266px;
+}
+.deposite-market table thead tr th{
+  min-width: 200px;
+}
+.mt_4-key .grid-container{
+  gap: 30px;
+}
+.mt_4-key .metatrade-key .available-keys {
+  padding: 40px 14px;
+}
+.meta-version-list .grid-container {
+  gap: 30px;
+}
+.grid-container_2 .grid-container{
+  grid-template-columns: repeat(3, 1fr);
+}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+ .commo-hero {
+  padding-top: 144px;
+ }
+ .account-hero .common-btn{
+  padding: 15px;
+}
+}
+@media (max-width: 1024px) {
+  .hero-content h1 {
+    font-size: 43px;
+    margin-bottom: 19px;
+  }
+  .hero-content .btn{
+    margin-bottom: 22px;
+  }
+  .navbar-nav {
+    gap: 30px;
+  }
+  .navbar-end .common-btn {
+    padding: 7px 24px;
+    font-size: 16px;
+  }
+  .navbar-end {
+    gap: 20px;
+  }
+  .hero-content p {
+    line-height: 30px;
+  }
+  .hero-content p:last-child {
+    margin-bottom: 30px;
+  }
+  .reward {
+    padding-top: 50px;
+  }
+  .market {
+    padding-bottom: 60px;
+    position: relative;
+  }
+  .trending-right-data h3 {
+    font-size: 31px;
+  }
+  .trending-right-data p {
+    margin-bottom: 17px;
+  }
+  .market {
+    padding-bottom: 70px;
+  }
+  .fund-row .col-4 {
+    margin-bottom: 90px;
+  }
+  .cfd-img img {
+    right: 2%;
+    margin-bottom: -4%;
+  }
+  .cfd-head h3,
+  .cfd-head h2 {
+    font-size: 30px;
+    line-height: 42px;
+  }
+  .step-curv {
+    left: 5%;
+    top: 40%;
+  }
+  
+  .step-absolute-1 {
+    top: 53%;
+    left: 33%;
+  }
+  .step-absolute-2 {
+    top: 42%;
+    left: 67%;
+  }
+  .award-data div {
+    width: 210px;
+    height: 128px;
+  }
+  .footer-content ul li {
+    margin-bottom: 20px;
+  }
+  .res-fund-col {
+    margin-bottom: 50px !important;
+  }
+  .steps {
+    padding: 201px 0 130px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .trade-scroll {
+    padding: 30px 0;
+  }
+  .why-trade-box h3 {
+    line-height: 27px;
+  }
+  .whytrade-cols h3 {
+    padding: 0;
+  }
+  .common-step-curv {
+    left: 4%;
+    top: 23%;
+}
+.step-count-data h3 {
+  max-width: 336px;
+}
+.common-step-ab1 {
+  top: 35%;
+  left: 40%;
+}
+.metatrade-key.common-bg-css{
+  clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 90%);
+}
+.available-keys {
+  padding: 40px 39px;
+}
+.available-keys h3 {
+  font-size: 18px;
+}
+.refer-work{
+  clip-path: polygon(0 0, 100% 12%, 100% 100%, 0 86%);
+}
+.common-step-ab2 {
+  top: 25%;
+  right: -5%;
+}
+.cfd-why-trade {
+  clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 93%);
+}
+.common-cfd-steps {
+  clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 92%);
+}
+.cfd-Buying {
+  padding-bottom: 59px;
+}
+.spread-por.common-bg-css{
+  padding: 100px 0;
+  }
+   .mt_5-key .grid-container {
+    grid-template-columns: repeat(3, 1fr);
+}
+}
+
+@media (max-width: 992px) {
+  .refer-line {
+    max-width: 531px;
+}
+  .navbar-collapse:after {
+    height: 100%;
+  }
+  
+  .trending-right-data h3 {
+    font-size: 24px;
+  }
+  .trending {
+    clip-path: polygon(0 0, 100% 6%, 100% 95%, 0 90%);
+  }
+  .trending-left-data div img {
+    margin-bottom: -10px;
+  }
+  .trending-right-data {
+    padding-top: 40px;
+    margin-bottom: 30px;
+  }
+  .market-right-data .common-btn {
+    margin-bottom: 0;
+  }
+  .funds-content {
+    margin: 0;
+    padding: 64px 19px 30px;
+  }
+  .funds {
+    padding: 0;
+  }
+  .cfd-img img {
+    position: static;
+  }
+  .cfd {
+    padding-bottom: 44px;
+  }
+  .cfd.common-bg:after {
+    top: 36%;
+  }
+  .common-bg {
+    clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 93%);
+  }
+  .why-trade-box {
+    margin-bottom: 30px;
+    padding-bottom: 0;
+  }
+  .why-trade {
+    clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 93%);
+  }
+  .why-trade {
+    margin-bottom: 10px;
+  }
+  .step-curv {
+    left: 10%;
+    top: 40%;
+}
+.steps .step-count-data h3{
+  margin: 0 auto;
+}
+  .step-absolute-2 {
+    top: 40%;
+    left: 70%;
+  }
+  .step-absolute-1 {
+    top: 50%;
+    left: 38%;
+  }
+  .step-head h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .step-count-data h3 {
+    line-height: 27px;
+    font-size: 18px;
+    width: 100%;
+    max-width: 200px;
+    /* margin: 0 auto; */
+  }
+  .step-count-data p {
+    color: var(--white);
+    width: 100%;
+    max-width: 219px;
+    font-size: 14px;
+}
+  .award-data div {
+    width: 272px;
+    height: 164px;
+  }
+  .award {
+    clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 93%);
+  }
+  .cfd-hero-head h2 {
+    /* font-size: 48px; */
+    font-size: 43px;
+    line-height: 48px;
+  }
+  .demoaccount-hero .cfd-hero-head h2 {
+    font-size: 41px;
+    line-height: 48px;
+  }
+  .cfd-hero-head p {
+    font-size: 16px;
+    margin: 0 auto;
+  }
+  .cfd-why-trade {
+    clip-path: polygon(0 0, 100% 6%, 100% 95%, 0 90%);
+    padding: 121px 0 133px;
+  }
+  .common-cfd-steps {
+    clip-path: polygon(0 0, 100% 6%, 100% 95%, 0 90%);
+  }
+  /* .common-bg-css{
+    clip-path: polygon(0 0, 100% 6%, 100% 95%, 0 90%);
+  } */
+  .common-bg-css {
+    clip-path: polygon(0 0, 100% 3%, 100% 95%, 0 93%);
+}
+  .market-head h2 {
+    font-size: 30px;
+    line-height: 35px;
+  }
+  .cfd-Buying-left img{
+    margin-bottom: -8px;
+  }
+  .cfd-ready {
+    padding: 43px 0;
+}
+.common-step-curv {
+  left: 13%;
+  top: 20%;
+}
+.common-step-ab1 {
+  top: 32%;
+  left: 48%;
+}
+.common-step-ab2 {
+  top: 22%;
+}
+.commo-tranding .row:after {
+width: 50px;
+height: 85%;
+}
+.commo-tranding{
+  clip-path: polygon(0 0, 100% 6%, 100% 95%, 0 90%);
+}
+.indices-hero{
+  /* background-size: contain; */
+  background-size: cover;
+  height: 104vh;
+}
+.account-hero{
+  padding-bottom:  47px;
+  padding-top: 127px;
+}
+.account-trade {
+  clip-path: polygon(0 0, 100% 5%, 100% 100%, 0 93%);
+}
+.availble-img {
+  /* padding: 11px 13px; */
+  width: 119px;
+}
+.account-trade {
+  padding-top: 97px;
+}
+.trade-global .row .col-12:last-child{
+  position: static;
+}
+.market-tab .nav-tabs .nav-item .nav-link{
+  padding: 10px 24px;
+}
+.trade-global .row .col-12:last-child{
+  top: -1px;
+}
+.trading-market{
+  padding: 0 0 40px;
+}
+.commission-hero{
+  padding: 0;
+}
+
+.comission-price {
+  padding: 62px 0;
+}
+
+.leverage-por {
+  position: relative;
+  padding: 132px 0 150px;
+}
+.margin {
+  clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 92%);
+}
+.sread-data p{
+ max-width: 100%;
+}
+.margin-data p{
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.commision-broker-data{
+  padding-top: 0;
+}
+.experience-col{
+  position: static;
+}
+.experience {
+  padding: 30px 0 170px;
+}
+.demo-real .col-12{
+  margin-bottom: 30px;
+}
+
+.hero-sec {
+  height: 75vh;
+}
+.deposite-market .table-btn {
+  padding: 10px 9px;
+}
+.available-keys {
+  padding: 40px 9px;
+}
+.mt4-price{
+  padding-top: 0;
+}
+.refer-friend {
+  padding: 50px 0;
+}
+  .refer-work{
+    clip-path: polygon(0 0, 100% 5%, 100% 100%, 0 93%);
+}
+.refer-work{
+  padding: 90px 0;
+}
+.faq{
+  padding: 70px 0;
+}
+.spread-left {
+  margin-left: 0;
+}
+.market table thead th {
+  min-width: 233px;
+}
+.metatrad_2 .row{
+  padding-top: 0;
+}
+.mt_4-key .grid-container{
+  grid-template-columns: repeat(2, 1fr);
+}
+.meta-version-list .grid-container{
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.weare-slide{
+margin-left: 12px;
+}
+.refer-head p{
+  margin-bottom: 20px;
+}
+.footer-logo p {
+  margin: 0 auto;
+  max-width: 500px;
+  margin-bottom: 30px;
+}
+}
+@media(min-width:575px) and (max-width:992px){
+  .trade-global-right img{
+    margin-top: -118px;
+    width: 100%;
+}
+.trading-market table thead tr th:first-child {
+  padding-left: 28px !important;
+  padding-right: 5px !important;
+}
+}
+@media (max-width: 768px) {
+  .demo-hero-img{
+    position: static;
+  }
+  .award {
+    padding: 80px 0;
+}
+footer .row {
+  padding-bottom: 20px;
+}
+  
+  .award {
+    clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 93%);
+  }
+  .trade-content h3 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .trade-content p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .trade-scroll h2 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .hero-content p {
+    font-size: 19px;
+  }
+  .navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .navbar-brand img {
+    width: 140px;
+  }
+  .hero-content h1 {
+    font-size: 41px;
+    margin-bottom: 33px;
+    line-height: 54px;
+  }
+  .responsive-slide-img {
+    display: flex;
+    align-items: center;
+  }
+  .hero-content p {
+    line-height: 30px;
+  }
+  .hero-content p:last-child {
+    margin-bottom: 30px;
+  }
+  .funds-content {
+    padding: 64px 9px 24px;
+  }
+  .reward {
+    padding-top: 0px;
+  }
+  .fund-row .col-12 {
+    margin-bottom: 81px;
+  }
+  .common-bg {
+    clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 93%);
+  }
+  .why-trade {
+    padding: 100px 0;
+  }
+  .step-curv {
+    left: 5%;
+    top: 44%;
+  }
+  .step-absolute-1 {
+    top: 51%;
+    left: 35%;
+}
+.step-absolute-2 {
+  top: 42%;
+  left: 69%;
+}
+  .footer-logo {
+    margin-bottom: 25px;
+  }
+  footer .col-6 {
+    margin-bottom: 25px;
+  }
+  .cfd-tranding-head p {
+    margin: 0 auto;
+  }
+  .choose-trade-data {
+    margin-bottom: 20px;
+  }
+  .trade-row .col-4 {
+    margin-bottom: 10px !important;
+  }
+  .cfd-head-para{
+    margin: 0 auto;
+}
+.common-step-curv {
+  left: 4%;
+  top: 25%;
+}
+.step-count-data p {
+  max-width: 167px;
+}
+.step-count-data h3 {
+  line-height: 22px;
+  font-size: 16px;
+  max-width: 180px;
+}
+.common-step-ab1 {
+  top: 32%;
+  left: 40%;
+}
+.common-step-ab2 {
+  top: 24%;
+    right: 4%;
+}
+.commo-tranding .row:after {
+  width: 54px;
+  height: 89%;
+}
+.commo-tranding .row .col-12 {
+  margin-bottom: 90px;
+}
+.responsive-able-img{
+  padding: 8px;
+}
+
+.trading-market table thead th{
+  padding: 15px 28px 15px 0px !important;
+}
+.leverage-por .col-12:first-child{
+  position: static;
+}
+.leverage-por {
+  padding: 78px 0 120px;
+}
+.sread-data{
+  text-align: center;
+}
+.sread-data p{
+  margin: 0 auto;
+}
+.commision-broker.common-bg-css{
+  padding-bottom: 110px;
+}
+
+.demosccount-pt{
+  padding-top: 0px;
+}
+
+.demoaccount-hero .cfd-hero-head h2 {
+  font-size: 36px;
+}
+.demoaccount-hero{
+  padding-top: 101px;
+  height: 77vh;
+}
+.metratrad{
+  height: 96vh;
+}
+
+.market table tbody tr th {
+  font-size: 16px !important;
+}
+.market table td {
+  font-size: 16px !important;
+}
+.deposite-hero.cfd-hero {
+  height: 87vh;
+}
+.metatrade-key.common-bg-css {
+  clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 95%);
+}
+
+.grid-container {
+  grid-template-columns: repeat(auto-fit, minmax(251px, 1fr));
+}
+
+.mt4-price{
+  padding: 0;
+}
+
+.cfd-why-trade {
+  clip-path: polygon(0 0, 100% 3%, 100% 95%, 0 93%);
+}
+.common-cfd-steps {
+  clip-path: polygon(0 0, 100% 4%, 100% 95%, 0 92%);
+}
+.choose-trade-data h3 {
+  max-width: 100%;
+}
+.choose-trade-data h3 {
+  max-width: 100%;
+}
+.mt4-img img {
+  margin-bottom: -25px;
+}
+.mt_5-key .grid-container{
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+.grid-container_2 .grid-container{
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+}
+.meta-version-list .grid-container {
+  gap: 15px;
+}
+.mt_4-key .grid-container{
+  gap: 15px;
+}
+.meta-version.common-bg-css {
+  padding-bottom: 173px;
+  padding-top: 125px;
+}
+.grid-container-value{
+  /* grid-template-columns: repeat(2, 1fr); */
+  gap: 15px;
+}
+.weare-value.common-bg-css{
+  padding-bottom: 100px;
+}
+.touch-form{
+  padding: 20px 0;
+}
+
+.refer-work .market-tab .nav-tabs .nav-item .nav-link{
+  padding: 14px 48px !important;
+}
+.refer-line {
+  max-width: 494px;
+}
+}
+@media (max-width: 767px) {
+
+  .demoaccount-hero {
+    height: 106vh;
+}
+  .demoaccount-hero .cfd-hero-head h2{
+    text-align: center;
+  }
+  .demoaccount-hero .cfd-hero-head p{
+    text-align: center;
+    margin: 0 auto;
+  }
+  .demoaccount-hero .commision-h6{
+    text-align: center;
+    margin: 0 auto;
+  }
+  .demoaccount-hero{
+    padding-top: 0px;
+  }
+  .navbar-collapse {
+    margin-top: 38px;
+  }
+  .demoaccount-hero.metra-ac-hero {
+    height: 97vh;
+}
+
+}
+@media (max-width: 670px) {
+  .hero-content h1 {
+    font-size: 36px;
+  }
+  .step-curv {
+    left: 2%;
+    top: 51%;
+}
+.step-absolute-1 {
+  top: 55%;
+  left: 32%;
+}.step-absolute-2 {
+  top: 48%;
+  left: 66%;
+}
+}
+@media (max-width: 575px) {
+  .refer-line {
+    display: none;
+  }
+  .home-footer{
+    padding-top: 50px;
+  }
+  .line-img {
+    top: 15px;
+    left: 11px;
+}
+  .cfd-hero{
+    height: 65vh;
+  }
+.deposite-hero .row{
+     padding-top: 140px;
+}
+  .hero-pt{
+   padding-top: 190px;
+   /* height: 122vh; */
+   height: 60vh;
+  }
+  .commidi-hero{
+    padding-top: 190px;
+    height: 75vh;
+  }
+  .commis-ht.hero-pt{
+    height: 113vh;
+    /* height: 87vh; */
+  }
+  .share-hero.hero-pt{
+    height: 70vh;
+  }
+  .refer-hero.hero-pt{
+    height: 97vh;
+  }
+  /* .trading-herosec.hero-pt{
+    padding-top: 98px;
+    height: 92vh;
+  } */
+  .demoaccount-hero {
+    height: 80vh;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 95%);
+}
+
+.demoaccount-hero .cfd-hero-head h2{
+  font-size: 24px;
+  line-height: 30px;
+  
+}
+.demo-real {
+  /* padding: 63px 0 122px; */
+  padding: 63px 40px 122px;
+}
+  .leve-hero-pt {
+    padding-top: 147px;
+    height: 71vh;
+}
+.cfd-hero-head h2:first-child{
+  margin-bottom: 0;
+}
+  .price .pricing-data .market-head h2{
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 20px;
+  }
+  .steps-content h5{
+    font-size: 12px;
+    line-height: 12px;
+}
+  .indices-hero{
+    background-size: cover;
+    /* height: 100vh; */
+    height: 65vh;
+  }
+  footer .row {
+    padding-bottom: 0px;
+  }
+  .award {
+    clip-path: polygon(0 0, 100% 5%, 100% 100%, 0 93%);
+  }
+  .fund-row .col-12 {
+    margin-bottom: 58px;
+  }
+  footer {
+    /* padding-top: 44px; */
+    padding-top: 0px;
+  }
+  .reward .owl-carousel .owl-item img {
+    width: 216px;
+  }
+  .logo-slide-res {
+    gap: 6px;
+  }
+  .responsive video {
+    width: 100%;
+    /* height: 60vh; */
+    object-fit: cover;
+  }
+  .step-count-data h3 {
+    width: 100%;
+    max-width: 100%;
+  }
+  /* .responsive {
+    margin-bottom: 30px;
+  } */
+  .trending-right-data h3 {
+    line-height: 30px;
+    font-size: 24px;
+  }
+  .trending-right-data p {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 15px;
+  }
+  .list-icon {
+    height: 22px;
+    width: 22px;
+  }
+  .list-content h5 {
+    font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 5px;
+  }
+  .list-content p {
+    font-size: 10px;
+    line-height: 15px;
+    margin-bottom: 10px;
+  }
+  .trending-right-data {
+    margin-bottom: 15px;
+  }
+  .trending {
+    /* clip-path: polygon(0 0, 100% 7%, 100% 92%, 0 85%); */
+    clip-path: polygon(0 0, 100% 6%, 100% 91%, 0 86%);
+    padding-top: 60px;
+  }
+  .trending::after {
+    top: 77px;
+  }
+  .market-head h2 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+  .cfd-why-trade {
+    clip-path: polygon(0 0, 100% 4%, 100% 95%, 0 91%);
+  }
+  .market-head p {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+  .market-tab .nav-tabs .nav-item .nav-link {
+    padding: 8px 18px;
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .weare-market .market-tab .nav-tabs .nav-item .nav-link {
+    padding: 8px 38px;
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .market-tab .nav-tabs {
+    gap: 18px;
+  }
+  .market-right-data h4 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 10px;
+  }
+  .market-right-data h5 {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 4px;
+  }
+  .market-right-data p {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 5px;
+  }
+  .market{
+    padding-top: 48px;
+  }
+  .market-live-para{
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .last-para {
+    margin-bottom: 15px !important ;
+  }
+  .funds .container {
+    padding: 0 40px;
+  }
+  .funds-content {
+    padding: 55px 19px 40px;
+  }
+  .fund-data h3 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .fund-data-img {
+    padding: 12px;
+    width: 60px;
+    margin-top: -136px;
+  }
+  .cfd-head {
+    text-align: center;
+  }
+  .demo-global .cfd-head {
+    text-align: start;
+  }
+  .cfd-head h3,
+  .cfd-head h2 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+  .cfd-head p {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 10px;
+  }
+  .cfd-mb {
+    justify-content: center;
+  }
+  .cfd-box {
+    margin-right: 10px;
+  }
+  .cfd-box h4 {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .cfd-box span {
+    font-size: 11px;
+    line-height: 12px;
+  }
+  .cfd-box {
+    padding: 14px 9px;
+  }
+  .common-bg {
+    clip-path: polygon(0 0, 100% 4%, 100% 100%, 0 96%);
+  }
+  .common-bg-css {
+    clip-path: polygon(0 0, 100% 4%, 100% 100%, 0 96%);
+    padding-top: 70px;
+  }
+  .why-trade {
+    clip-path: polygon(0 0, 100% 4%, 100% 100%, 0 96%);
+  }
+  .cfd-img img {
+    margin-bottom: 0px;
+  }
+  .why-trade-box {
+    display: flex;
+    text-align: start;
+    gap: 20px;
+    padding: 20px 10px 1px;
+  }
+  .why-trade-box p {
+    margin-bottom: 0;
+  }
+  .why-img2 {
+    top: 48%;
+    right: -1%;
+  }
+  .why-trade {
+    padding: 80px 0 60px;
+  }
+  .why-trade-box img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+  }
+  .step-curv {
+    display: none;
+  }
+  .step-absolute-1 {
+    position: static;
+    margin-top: 10px;
+  }
+  .step-absolute-2 {
+    position: static;
+    margin-top: 10px;
+  }
+  .step-count {
+    padding-top: 20px;
+  }
+  .step-head h2 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .steps-content h3 {
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 10px;
+  }
+  .steps-content p {
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 20px;
+  }
+  .award-data div {
+    width: 150px;
+    height: 90px;
+  }
+  .award-data .img-9 {
+    width: 75px;
+  }
+  .award-data {
+    padding: 10px;
+  }
+
+  .copy-right h3 {
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .footer-social li {
+    height: 30px;
+    width: 30px;
+  }
+  .footer-social li a img {
+    height: 14px;
+  }
+  .footer-logo p {
+    font-size: 12px;
+    line-height: 26px;
+  }
+  .footer-content h3 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 15px;
+  }
+  .footer-content ul li {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .footer-content ul li a {
+    font-size: 14px;
+  }
+  .steps {
+    padding: 100px 0;
+  }
+  .cfd-hero-head h2 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+  .cfd-hero-head p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .cfd-hero-head h2:last-child {
+    margin-bottom: 10px;
+  }
+  .cfd-bg-img {
+    background-image: url("../images/Group\ 18637.png");
+  }
+  .commo-hero {
+    background-image: url("../images/Group\ 18501.png");
+  }
+  .indices-hero {
+    background-image: url("../images/Group\ 18519.png");
+  }
+  /* .share-hero {
+    background-image: url("../images/Group\ 18519\ \(1\).png");
+  } */
+  .crypto-hero {
+    background-image: url("../images/Group\ 18519\ \(2\).png");
+  }
+  .cfd-hero-head {
+    margin-top: -140px;
+  }
+  .demoaccount-hero .cfd-hero-head{
+    margin-top: 0;
+  }
+  .cfd-tranding-head h3 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+  }
+  .cfd-tranding-head p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .cfd-choose-trade {
+    padding-top: 31px;
+  }
+  .cfd-tranding-span {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .choose-trade-data img {
+    margin-bottom: 10px;
+  }
+  .cstm-trad-mb {
+    margin-bottom: 10px !important;
+  }
+  .whytrade-cols {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+    gap: 16px;
+    text-align: start;
+  }
+  .account-trade .whytrade-cols {
+    flex-direction: column;
+  }
+  .cfd-tranding {
+    padding-bottom: 16px;
+    padding-top: 39px;
+  }
+  .whytrade-cols h3 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .cfd-why-trade {
+    padding: 114px 0 122px;
+  }
+  .why-trade-center p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .whytrade-cols img {
+    width: 65px;
+  }
+  .cfd-Buying-left img {
+    /* margin-bottom: -41px; */
+    margin-bottom: -10px;
+  }
+  .cfd-Buying-right p{
+ text-align: center;
+  }
+  .cfd-Buying-right h2{
+ text-align: center;
+  }
+  .cfd-ready {
+    padding: 16px 0;
+}
+.common-step-ab1{
+  position: static;
+}
+.common-step-ab2{
+  position: static;
+}
+.common-cfd-count .common-step-ab {
+  padding: 0;
+}
+.common-step-curv{
+  display: none;
+}
+.common-cfd-count {
+  padding-top: 64px;
+}
+.common-cfd-count .col-12 {
+  width: 100%;
+  text-align: center;
+}
+.step-count-data p{
+  margin: 0 auto;
+  max-width: 400px;
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 25px;
+}
+.steps .step-count .col-12{
+  width: 100%;
+}
+.cfd-step {
+  padding: 107px 0 99px;
+  clip-path: polygon(0 0, 100% 3%, 100% 95%, 0 92%);
+}
+
+.commo-tranding .row:after{
+  display: none;
+}
+/* .commo-tranding {
+  clip-path: polygon(0 0, 100% 4%, 100% 95%, 0 90%);
+} */
+.commo-tranding {
+  clip-path: polygon(0 0, 100% 2%, 100% 95%, 0 90%);
+}
+.margin {
+  clip-path: polygon(0 0, 100% 4%, 100% 95%, 0 90%);
+}
+.commo-tranding .row .col-12 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.commo-trand-right p{
+  margin: 0 auto;
+  font-size: 12px;
+  line-height: 20px;
+}
+.commo-trand-left h3 {
+  font-size: 18px;
+  line-height: 18px;
+}
+.commo-tranding {
+  padding-bottom: 172px;
+}
+.why-trade-box h3{
+  font-size: 14px;
+  line-height: 14px;
+  margin-bottom: 10px;
+}
+.why-trade-box{
+  margin-bottom: 20px;
+}
+.steps .step-count-data h3{
+  font-size: 16px;
+  line-height: 16px;
+}
+.why-trade-box p{
+  font-size: 12px;
+  line-height: 20px;
+}
+/* .hero-sec{
+ height: 80vh;
+ padding-top: 60px;
+} */
+.hero-sec {
+  height: 68vh;
+  padding-top: 0;
+}
+.hero-content h1
+.choose-trade-data h3{
+  font-size: 12px;
+  line-height: 20px;
+}
+.common-btn{
+  font-size: 12px;
+  line-height: 12px;
+  padding: 15px 40px;
+}
+.cfd-pairs{
+  padding-top: 0;
+}
+.cfd-pairs-right a {
+  font-size: 12px;
+  line-height: 12px;
+}
+.cfd-ready-list li {
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+.demoac-list li {
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+.comission-price{
+  padding: 12px 0;
+}
+.pricing-data{
+  margin-top: 30px;
+}
+.pricing-data h4{
+  font-size: 22px;
+  line-height: 22px;
+  margin-bottom: 7px;
+}
+.pricing-data p{
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+/* .leverage-por {
+  padding: 44px 0 21px;
+} */
+.leverage-por {
+  padding: 44px 0 106px;
+}
+table thead th{
+  font-size: 16px !important;
+  line-height: 16px !important;
+  /* padding: 8px !important; */
+}
+.deposite-market table thead th{
+  font-size: 14px !important;
+  line-height: 16px !important;
+  /* padding: 10px 66px 0 0  !important; */
+  min-width: 150px;
+  max-width: 150px;
+}
+.deposite-market .table-btn{
+  width: 113px;
+}
+.deposite-market table tbody tr td{
+  font-size: 12px;
+  line-height: 14px;
+} 
+.trading-market table thead th{
+  font-size: 11px !important;
+  line-height: 11px !important;
+  padding-right: 10px !important;
+}
+
+table tbody tr th{
+  font-size: 14px !important;
+  line-height: 14px !important;
+}
+.trading-market tbody tr th{
+  font-size: 12px !important;
+  line-height: 12px !important;
+}
+table tbody tr th:first-child{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.trading-market table td{
+  font-size: 12px !important;
+  line-height: 12px !important;
+}
+.hours-change{
+  margin-top: 30px;
+}
+table td{
+  font-size: 14px !important;
+  line-height: 14px !important;
+}
+.cmn-spread{
+  clip-path: polygon(0 0, 100% 6%, 100% 100%, 0 96%);
+}
+.account-hero-box h2 {  
+  font-size: 36px;
+}
+/* .account-hero-btn{
+  font-size: 12px;
+  line-height: 12px;
+} */
+.account-bottom-content{
+  text-align: center;
+  margin-bottom: 15px;
+  padding-bottom: 2px;
+}
+.account-bottom-content p{
+  font-size: 12px;
+  line-height: 20px;
+}
+.account-bottom-content h4{
+  margin-top: 13px;
+  margin-bottom: 10px;
+}
+.account-bottom-content p{
+  margin-bottom: 13px;
+}
+.account-bottom-content h4{
+  font-size: 14px;
+  line-height: 20px;
+}
+.available-deposit h3{
+  font-size: 14px;
+  line-height: 14px;
+}
+.availble-img {
+  /* padding: 11px 13px; */
+  width: 100px;
+  height: 35px;
+}
+
+.trad-box{
+  padding: 15px 21px;
+  margin-right: 17px;
+  margin-left: 10px;
+}
+.trad-box h6{
+  font-size: 11px;
+  line-height: 14px;
+}
+.trade-global-right img{
+  margin-top: -90px;
+  margin-left: 30px;
+}
+.hours-change h5{
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom: 10px;
+}
+.hours-change p{
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+.hours-change .text-center h6{
+  font-size: 14px;
+  line-height: 14px;
+}
+.table thead tr th:first-child{
+  /* padding-right: 0 !important; */
+  padding-left: 10px !important;
+}
+.trading-market table thead tr th:first-child{
+  padding-left: 14px !important;
+  padding-right: 10px !important;
+}
+.sread-data h3{
+  font-size: 24px;
+  line-height: 30px;
+  margin-bottom: 15px;
+}
+.sread-data p{
+  font-size: 12px;
+  line-height: 20px;
+}
+.margin-data h3{
+  font-size: 24px;
+  line-height: 30px;
+}
+.margin-data p{
+  font-size: 12px;
+  line-height: 20px;
+}
+.margin {
+  padding-top: 70px;
+}
+.scheme-data h3 {
+  font-size: 25px;
+  line-height: 25px;
+  margin-bottom: 17px;
+}
+.scheme-data ul li {
+  font-size: 16px;
+  line-height: 16px;
+  padding: 20px 0;
+}
+.scheme-data {
+  padding: 18px 12px 40px;
+}
+.scheme {
+  padding: 76px 0 220px;
+}
+.commision-h6{
+  font-size: 12px;
+  line-height: 20px;
+}
+.account-trade .whytrade-cols h3{
+  /* font-size: 12px; */
+  font-size: 16px;
+  line-height: 20px;
+  width: 100%;
+  text-align: center;
+}
+.demo-real-data p {
+  font-size: 12px;
+  line-height: 120x;
+}
+
+.accoun-spe .whytrade-cols h3{
+  max-width: 200px;
+  margin: 0 auto;
+}
+.whytrade-cols img{
+  margin-bottom: 0;
+}
+.whytrade-cols {
+  margin-bottom: 0;
+}
+
+
+.demo-head p {
+  font-size: 12px;
+  line-height: 20px;
+}
+.experience .market-head h2{
+  margin-bottom: 10px;
+}
+.cfd-ready-list li{
+  align-items: start;
+}
+.metratrad {
+  height: 72vh;
+  padding-top: 110px;
+}
+
+.market table thead th {
+  font-size: 16px !important;
+  line-height: 22px !important;
+  padding: 15px 43px 15px 0px !important;
+}
+.market table .trading-table th{
+  padding: 15px 19px 15px 0px !important;
+}
+.market table tbody tr th {
+  font-size: 14px !important;
+}
+.market table td {
+  font-size: 14px !important;
+}
+.notes-content-head h2{
+  font-size: 16px;
+  line-height: 16px;
+  padding: 12px 0;
+}
+.notes-list-data .cfd-ready-list li {
+  font-size: 14px;
+  line-height: 18px;
+}
+.metratrad.demoaccount-hero {
+  height: 69vh;
+}
+.weare-hero.demoaccount-hero{
+  height: 90vh !important;
+}
+.metatrade-key.common-bg-css {
+  clip-path: polygon(0 0, 100% 4%, 100% 100%, 0 95%);
+}
+.metratrad-account.account-trade {
+  padding: 107px 0 216px;
+}
+.platform {
+  padding: 45px 0;
+}
+.available-keys h3 {
+  font-size: 12px;
+  line-height: 12px;
+}
+.available-keys {
+  padding: 25px 20px !important; 
+}
+.available-on {
+  font-size: 18px;
+}
+.available-link a {
+  font-size: 14px;
+  line-height: 14px;
+}
+.metatrade-key.common-bg-css {
+  padding-bottom: 153px;
+}
+.metatrade-key .cfd-head{
+  text-align: start;
+}
+.key-h4 {
+  font-size: 18px;
+  line-height: 18px;
+}
+.metatrad_2 {
+  height: 93vh;
+}
+.mt4sec.common-bg-css{
+  padding-bottom: 19px;
+}
+.grid-container {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Adjust for smaller screens */
+}
+.meta-version-para {
+  font-size: 14px;
+  line-height: 18px;
+  margin-bottom: 30px;
+}
+.meta-version .meta-logo {
+  padding: 17px 46px;
+}
+.refer-frd h2 {
+  font-size: 24px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+.refer-frd p{
+  margin-bottom: 5px;
+  font-size: 12px;
+  line-height: 20px;
+}
+.refer-frd {
+  margin-bottom: 20px;
+}
+.refer-eligibility h3{
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+.refer-eligibility p{
+  margin-bottom: 5px;
+  font-size: 12px;
+  line-height: 20px;
+}
+.refer-form label{
+  margin-bottom: 10px;
+  font-size: 12px;
+  line-height: 12px;
+}
+.touch-form .form-control{
+  height: 41px;
+}
+.touch-form .form-select{
+  height: 41px;
+}
+.refer-form input{
+  margin-bottom: 15px;
+}
+.refer-form p{
+  font-size: 12px;
+  line-height: 20px;
+}
+.refer-friend{
+  padding: 0;
+}
+.refer-work {
+  clip-path: polygon(0 0, 100% 4%, 100% 100%, 0 96%);
+}
+.refer-work-content h3{
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+.refer-work-content p{
+  font-size: 12px;
+  line-height: 20px;
+}
+.refer-work-content img{
+  width: 55px;
+  height: 55px;
+}
+.potential{
+  padding: 40px 0;
+}
+.map {
+  padding: 40px 0;
+}
+.touch-form h2{
+ font-size: 24px;
+ line-height: 30px;
+ margin-bottom: 20px;
+}
+.touch-form input::placeholder{
+  font-size: 14px;
+  line-height: 14px;
+}
+.touch-form input{
+  margin-bottom: 20px;
+}
+.touch-form .form-check-label{
+  font-size: 12px;
+  line-height: 20px;
+}
+.touch-form .form-select{
+  font-size: 14px;
+  line-height: 14px;
+}
+.commo-tranding {
+  padding-top: 76px;
+}
+.spread-por.common-bg-css {
+  padding-bottom: 0;
+  padding-top: 40px;
+}
+/* .market table tbody tr th:first-child{
+  padding-left: 27px;
+} */
+.leverage-por.common-bg-css{
+  padding: 40px 0 100px;
+}
+.trading-herosec.hero-pt {
+  padding-top: 114px;
+  height: 111vh;
+}
+.deposite-market .accordion-header .accordion-button{
+  font-size: 16px;
+  line-height: 20px;
+}
+.demoaccount-hero.metra-ac-hero {
+  height: 85vh;
+}
+.metatrad_2 {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 95%);
+}
+.metatrad_2 .row{
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.mt4-img img {
+  margin-bottom: -22px;
+}
+.meta-version-list .grid-container {
+  gap: 15px;
+}
+.available-keys img{
+  width: 35px;
+}
+.meta-version.common-bg-css {
+  padding-bottom: 133px;
+}
+.weare-hero.demoaccount-hero .row{
+  padding-top: 0;
+}
+.werae-trade .whytrade-cols p{
+  font-size: 14px;
+  line-height: 20px;
+}
+.weare-value.common-bg-css{
+  padding-bottom: 40px;
+}
+.mt4-price button:first-child{
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.award-slide-img{
+  padding: 22px 78px;
+}
+.award-slide-data h3{
+  font-size: 12px;
+  line-height: 14px;
+  margin-bottom: 5px;
+}
+.weare-slide.owl-carousel .owl-item img{
+  width: 42px;
+}
+.touch-form label{
+  font-size: 14px;
+  line-height: 14px;
+  margin-bottom: 10px;
+}
+.touch-form-right h3{
+  font-size: 24px;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.touch-form-right{
+  padding: 30px 15px;
+}
+.touch-form-list li{
+  font-size: 14px;
+  line-height: 14px;
+  padding-bottom: 20px;
+}
+.faq .accordion-body p{
+  font-size: 12px;
+  line-height: 20px;
+}
+.faq .accordion-button{
+  font-size: 14px;
+  line-height: 14px;
+}
+.faq .accordion-body{
+  padding: 15px;
+}
+.grid-container-value .available-keys:nth-last-child(2) {
+  grid-row-start: 2;
+  grid-column: 1 / span 6;
+}
+.grid-container-value .available-keys:nth-last-child(1) {
+  grid-row-start: 2;
+  grid-column: 7 / span 6;
+}
+.grid-container-value .available-keys:nth-child(-1n + 3) {
+  grid-column: span 6;
+}
+}
+@media (max-width: 425px) {
+  /* .commis-ht.hero-pt{
+    height: 75vh;
+  } */
+  .trading-herosec.hero-pt {
+    padding-top: 114px;
+    height: 98vh;
+}
+  .commis-ht.hero-pt {
+    height: 103vh;
+}
+  .demoaccount-hero {
+    height: 77vh
+  }
+  .demoaccount-hero.metra-ac-hero {
+    height: 64vh;
+  }
+  /* .hero-sec{
+    height: 100vh;
+   } */
+  .hero-content {
+    text-align: center;
+  }
+  .hero-content .common-btn {
+    padding: 15px 35px;
+  }
+  .hero-content .btn{
+    margin-bottom: 10px;
+  }
+  .navbar-brand img {
+    width: 120px;
+  }
+  .navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .responsive video {
+    width: 100%;
+    /* height: 40vh; */
+  }
+  .responsive {
+    margin-bottom: 30px;
+  }
+  .reward {
+    padding-top: 0px;
+  }
+  .hero-content p:last-child{
+    margin-bottom: 0;
+  }
+  .hero-content h1 {
+    font-size: 26px;
+    line-height: 36px;
+    margin-bottom: 15px;
+  }
+  .hero-content p {
+    font-size: 12px;
+    line-height: 12px;
+    margin-bottom: 10px;
+  }
+  .item img {
+    margin: 0 auto;
+  }
+  .custom-nav {
+    left: 16px;
+  }
+  .item .common-btn {
+    margin-bottom: 38px;
+  }
+  .reward-content h6 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .reward-content h3 {
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 10px;
+  }
+  .reward-content p {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 14px;
+  }
+  
+  .common-btn {
+    padding: 15px 40px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .reward-content {
+    padding: 20px 15px 60px 15px;
+  }
+  .custom-prev,
+  .custom-next {
+    padding: 10px 14px;
+  }
+  .trending-right-data h3 {
+    line-height: 30px;
+    font-size: 24px;
+  }
+  .cfd-img img {
+    margin-bottom: 2px;
+  }
+  .cfd-box {
+    padding: 10px 2px;
+  }
+  .cfd-why-trade {
+    padding: 94px 0 97px;
+}
+
+.metratrad.demoaccount-hero {
+  height: 69vh;
+}
+.weare-hero.demoaccount-hero{
+  height: 76vh !important;
+}
+.refer-hero.hero-pt{
+  height: 92vh;
+}
+}
+@media (max-width: 375px) {
+  .available-keys {
+    padding: 25px 13px !important;
+}
+  .demoaccount-hero.metra-ac-hero {
+    height: 66vh;
+}
+.metratrad.demoaccount-hero {
+  height: 63vh;
+}
+.refer-hero.hero-pt{
+  height: 84vh;
+}
+
+  .demoaccount-hero {
+    height: 73vh;
+}
+    .metratrad {
+      height: 65vh;
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 96%);
+    }
+    .metatrad_2 .row {
+      padding-top: 191px;
+  }
+  .metatrad_2 {
+    height: 73vh;
+}
+.weare-hero.demoaccount-hero {
+  height: 69vh !important;
+}  
+}
+@media (max-width: 320px) {
+  .hero-sec {
+    height: 63vh;
+    padding-top: 0;
+  }
+  .demoaccount-hero.metra-ac-hero {
+    height: 58vh;
+}
+  .metratrad {
+    height: 58vh;
+  }
+  .metratrad.demoaccount-hero {
+    height: 57vh;
+}
+.weare-hero.demoaccount-hero {
+  height: 63vh !important;
+}
+}
