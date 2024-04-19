@@ -239,7 +239,7 @@ button:focus:not(:focus-visible) {
 }
 .reward-content p {
   color: #889399;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 26px;
   margin-bottom: 25px;
@@ -289,7 +289,7 @@ button:focus:not(:focus-visible) {
 }
 
 .trade-scroll h2 {
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 600;
   line-height: 55px;
   color: var(--blue-color);
@@ -314,7 +314,7 @@ button:focus:not(:focus-visible) {
   margin-bottom: 15px;
 }
 .trade-content p {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 20px;
   color: var(--para-color);
@@ -372,7 +372,7 @@ button:focus:not(:focus-visible) {
   right: 4%;
 }
 .market-head h2 {
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 600;
   line-height: 55px;
   color: var(--blue-color);
@@ -389,7 +389,7 @@ button:focus:not(:focus-visible) {
 
 .market-head p {
   color: var(--para-color);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 26px;
   margin-bottom: 20px;
@@ -446,17 +446,17 @@ button:focus:not(:focus-visible) {
   margin-bottom: 24px;
 }
 .market-right-data h5 {
-  font-size: 16px;
+  font-size: 18px;
   color: var(--text-color);
   font-weight: 400;
-  line-height: 26px;
+  line-height: 28px;
   margin-bottom: 15px;
 }
 .market-right-data p {
   color: var(--para-color);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 26px;
+  line-height: 28px;
   margin-bottom: 15px;
   width: 100%;
   max-width: 530px;
@@ -597,15 +597,15 @@ button:focus:not(:focus-visible) {
 
 .trending-right-data h3 {
   color: var(--white);
-  font-size: 40px;
+  font-size: 48px;
   line-height: 55px;
   font-weight: 600;
   margin-bottom: 10px;
 }
 .trending-right-data p {
   color: var(--white);
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 18px;
+  line-height: 28px;
   font-weight: 400;
   margin-bottom: 25px;
 }
@@ -746,7 +746,7 @@ button:focus:not(:focus-visible) {
 .cfd-head h3,
 .cfd-head h2 {
   color: var(--white);
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 600;
   line-height: 55px;
 }
@@ -771,8 +771,8 @@ button:focus:not(:focus-visible) {
   color: var(--white);
   margin-bottom: 20px;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 18px;
+  line-height: 268x;
 }
 .cfd-box {
   border-radius: 8px;
@@ -876,9 +876,9 @@ button:focus:not(:focus-visible) {
   margin-bottom: 11px;
 }
 .why-trade-box p {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
-  line-height: 20px;
+  line-height: 22px;
   color: var(--para-color);
   margin-bottom: 11px;
 }
@@ -905,7 +905,7 @@ button:focus:not(:focus-visible) {
   color: var(--para-color);
 }
 .step-head h2 {
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 600;
   line-height: 55px;
   color: var(--white);
@@ -1038,7 +1038,7 @@ footer {
   margin-bottom: 20px;
 }
 .footer-logo p {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 26px;
   color: #7b7b7d;
@@ -1046,9 +1046,9 @@ footer {
   max-width: 300px;
 }
 .footer-content h3 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
-  line-height: 18px;
+  line-height: 20px;
   color: var(--yellow);
   margin-bottom: 20px;
 }
@@ -1082,8 +1082,8 @@ footer {
 }
 .footer-content ul li a {
   color: var(--text-color);
-  line-height: 20px;
-  font-size: 16px;
+  line-height: 22px;
+  font-size: 18px;
 }
 .footer-content ul li a i {
   color: var(--text-color);
@@ -1179,7 +1179,7 @@ footer .row {
 }
 .cfd-tranding-head h3 {
   color: var(--blue-color0);
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 600;
   line-height: 50px;
   margin-bottom: 20px;
@@ -1189,7 +1189,7 @@ footer .row {
 }
 .cfd-tranding-head p {
   color: var(--para-color);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 28px;
   width: 100%;
@@ -1203,12 +1203,12 @@ footer .row {
   margin-bottom: 32px !important;
 }
 .choose-trade-data h3 {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 20px;
+  line-height: 22px;
   color: var(--text-color);
   width: 100%;
-  max-width:240px;
+  max-width:290px;
 }
 .cfd-choose-trade {
   border-top: 1.5px solid #073578;
@@ -1418,8 +1418,8 @@ footer .row {
   gap: 10px;
   color: var(--text-color);
   margin-bottom: 32px;
-  font-size: 16px;
-  line-height: 20px;
+  font-size: 18px;
+  line-height: 22px;
   align-items: center;
 }
 .notes-list-data .cfd-ready-list li:last-child{
@@ -1563,9 +1563,9 @@ footer .row {
   color: var(--yellow);
 }
 .step-count-data p {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 25px;
+  line-height: 26px;
   color: var(--white);
 }
 
