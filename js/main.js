@@ -61,17 +61,7 @@ function startCounterAnimation(entries, observer) {
     });
   }
   
-$('.stat-number').each(function () {
-  var size = $(this).text().split(".")[1] ? $(this).text().split(".")[1].length : 0;
-  $(this).prop('Counter', 0).animate({
-     Counter: $(this).text()
-  }, {
-     duration: 5000,
-     step: function (func) {
-        $(this).text(parseFloat(func).toFixed(size));
-     }
-  });
-});
+
   // Create an intersection observer
   var observer = new IntersectionObserver(startCounterAnimation, {
     threshold: 0.2 // Adjust the threshold as needed
