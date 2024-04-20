@@ -446,6 +446,18 @@ font-size: 28px;
    .mt_5-key .grid-container {
     grid-template-columns: repeat(3, 1fr);
 }
+.cfd-tranding-head h3 {
+  font-size: 40px;
+  line-height: 44px;
+}
+.market-head h2{
+  font-size: 40px;
+  line-height: 44px;
+}
+.step-head h2{
+  font-size: 40px;
+  line-height: 44px;
+}
 }
 
 @media (max-width: 992px) {
@@ -479,7 +491,7 @@ font-size: 28px;
     clip-path: polygon(0 0, 100% 6%, 100% 95%, 0 90%);
   }
   .trending-left-data div img {
-    margin-bottom: -10px;
+    margin-bottom: -12px;
   }
   .trending-right-data {
     padding-top: 40px;
@@ -532,10 +544,10 @@ font-size: 28px;
     top: 50%;
     left: 38%;
   }
-  .step-head h2 {
+  /* .step-head h2 {
     font-size: 30px;
     line-height: 40px;
-  }
+  } */
   .step-count-data h3 {
     line-height: 27px;
     font-size: 18px;
@@ -583,8 +595,8 @@ font-size: 28px;
     clip-path: polygon(0 0, 100% 3%, 100% 95%, 0 93%);
 }
   .market-head h2 {
-    font-size: 30px;
-    line-height: 35px;
+    font-size: 40px;
+    line-height: 42px;
   }
   .cfd-Buying-left img{
     margin-bottom: -8px;
@@ -746,6 +758,10 @@ margin-left: 12px;
 }
 }
 @media (max-width: 768px) {
+  .market-head h2 {
+    font-size: 40px;
+    line-height: 44px;
+  }
   .demo-hero-img{
     position: static;
   }
@@ -759,16 +775,16 @@ footer .row {
   .award {
     clip-path: polygon(0 0, 100% 7%, 100% 100%, 0 93%);
   }
-  .trade-content h3 {
+  /* .trade-content h3 {
     font-size: 16px;
     line-height: 26px;
-  }
+  } */
   .trade-content p {
-    font-size: 12px;
+    font-size: 16px;
     line-height: 20px;
   }
   .trade-scroll h2 {
-    font-size: 24px;
+    font-size: 30px;
     line-height: 34px;
   }
   .hero-content p {
@@ -829,6 +845,8 @@ footer .row {
   }
   .cfd-tranding-head p {
     margin: 0 auto;
+    font-size: 16px;
+    line-height: 22px;
   }
   .choose-trade-data {
     margin-bottom: 20px;
@@ -933,6 +951,8 @@ footer .row {
 }
 .choose-trade-data h3 {
   max-width: 100%;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .mt4-img img {
@@ -983,7 +1003,37 @@ footer .row {
 .hero-sec {
   height: 67vh;
 }
-
+.reward-content h3 {
+  font-size: 28px;
+}
+.market-head p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.commo-trand-right p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.footer-logo p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.footer-content ul li a {
+  font-size: 16px;
+  line-height: 22px;
+}
+.copy-right h3{
+  font-size: 16px;
+  line-height: 22px;
+}
+.account-bottom-content p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.account-trade .whytrade-cols h3{
+  font-size: 18px;
+  line-height: 24px;
+}
 }
 @media (max-width: 767px) {
 
