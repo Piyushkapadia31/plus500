@@ -34,11 +34,14 @@ $('.custom-next').click(function() {
     });
 
     function counter(event) {
-      var element = event.target; 
+      var element = event.target;
       var items = event.item.count;
-      var item = event.page.index + 1 || 1;; 
+      var currentItemIndex = event.page.index;
+      var actualIndex = currentItemIndex % items; // Correcting the index to cycle back to 0 after reaching the last item
+      var item = actualIndex + 1 || 1;
       $('.slide-counter').html(item + '.');
     }
+    
   });
 
 // Function to start counter animation when element comes into view
