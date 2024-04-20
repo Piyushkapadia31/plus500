@@ -37,8 +37,11 @@ $('.custom-next').click(function() {
       var element = event.target;
       var items = event.item.count;
       var currentItemIndex = event.page.index;
-      var actualIndex = currentItemIndex % items; // Correcting the index to cycle back to 0 after reaching the last item
-      var item = actualIndex + 1 || 1;
+      var correctedIndex = currentItemIndex % items; // Correcting the index to cycle back to 0 after reaching the last item
+      var item = correctedIndex + 1 || 1;
+      if (item === items) {
+        item = 1; // Reset to 1 after reaching the last item
+      }
       $('.slide-counter').html(item + '.');
     }
     
