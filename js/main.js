@@ -4,7 +4,8 @@ $(document).ready(function(){
     owl.owlCarousel({
       loop:true,
       margin:10,
-      nav:false,
+      nav: true,
+      navText: ["1"],
       // dots:false,
       responsive:{
           0:{
@@ -20,7 +21,6 @@ $(document).ready(function(){
       onInitialized: counter,
       onTranslated: counter 
     });
-
 $('.custom-next').click(function() {
         $('.owl-carousel').trigger('next.owl.carousel');
         $('.custom-next').addClass('active'); 
@@ -34,17 +34,11 @@ $('.custom-next').click(function() {
     });
 
     function counter(event) {
-      var element = event.target;
+      var element = event.target; 
       var items = event.item.count;
-      var currentItemIndex = event.page.index;
-      var correctedIndex = currentItemIndex % items; // Correcting the index to cycle back to 0 after reaching the last item
-      var item = correctedIndex + 1 || 1;
-      if (item === items) {
-        item = 1; // Reset to 1 after reaching the last item
-      }
+      var item = event.page.index+1  || 1;
       $('.slide-counter').html(item + '.');
     }
-    
   });
 
 // Function to start counter animation when element comes into view
@@ -124,23 +118,22 @@ gsap.to(".trade-smarter-content-item", {
    AOS.init();
 AOS.init({
 // Global settings:
-disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
-startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
-initClassName: 'aos-init', // class applied after initialization
-animatedClassName: 'aos-animate', // class applied on animation
-useClassNames: false, // if true, will add content of `data-aos` as classes on scroll
-disableMutationObserver: false, // disables automatic mutations' detections (advanced)
-debounceDelay: 50, // the delay on debounce used while resizing window (advanced)
-throttleDelay: 99, // the delay on throttle used while scrolling the page (advanced)
+disable: false, 
+startEvent: 'DOMContentLoaded',
+initClassName: 'aos-init', 
+animatedClassName: 'aos-animate', 
+useClassNames: false, 
+disableMutationObserver: false, 
+debounceDelay: 50, 
+throttleDelay: 99, 
 
 
-// Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
-offset: 120, // offset (in px) from the original trigger point
-delay: 0, // values from 0 to 3000, with step 50ms
-duration: 800, // values from 0 to 3000, with step 50ms
-easing: 'ease', // default easing for AOS animations
-once: false, // whether animation should happen only once - while scrolling down
-mirror: false, // whether elements should animate out while scrolling past them
-anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
+offset: 120, 
+delay: 0, 
+duration: 800, 
+easing: 'ease', 
+once: false, 
+mirror: false, 
+anchorPlacement: 'top-bottom', 
 
 });

@@ -1173,6 +1173,10 @@ footer .row {
 .cfd-tranding {
   padding: 90px 0;
 }
+.forex-video{
+  width: 100%;
+  max-width: 566px;
+}
 .cfd-tranding-span {
   color: var(--text-color);
   font-weight: 500;
@@ -1195,8 +1199,8 @@ footer .row {
   font-size: 18px;
   font-weight: 400;
   line-height: 28px;
-  width: 100%;
-  max-width: 511px;
+  /* width: 100%; */
+  /* max-width: 511px; */
 }
 
 .choose-trade-data img {
@@ -1311,11 +1315,11 @@ footer .row {
 }
 .werae-trade .whytrade-cols p{
   color: var(--white);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 26px;
+  line-height: 28px;
   width: 100%;
-  max-width: 350px;
+  max-width: 45 0px;
   margin: 0 auto;
 }
 .trade-row .col-4:nth-child(1) {
@@ -1457,8 +1461,8 @@ footer .row {
   gap: 10px;
   color: var(--white);
   margin-bottom: 25px;
-  font-size: 16px;
-  line-height: 20px;
+  font-size: 18px;
+  line-height: 24px;
   align-items: center;
 }
 
@@ -2305,11 +2309,11 @@ li.L9 {
 /* -----comission page----- */
 .commision-h6 {
   color: var(--blue-color);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 26px;
+  line-height: 28px;
   width: 100%;
-  max-width: 600px;
+  max-width: 650px;
 }
 .comission-price {
   padding: 90px 0 30px;
@@ -2376,9 +2380,9 @@ li.L9 {
 }
 .sread-data p {
   color: var(--white);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 26px;
+  line-height: 28px;
   width: 100%;
   max-width: 550px;
 }
@@ -2573,11 +2577,11 @@ tr {
 }
 .margin-data p {
   color: var(--para-color);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 26px;
-  width: 100%;
-  max-width: 580px;
+  line-height: 28px;
+  /* width: 100%; */
+  /* max-width: 580px; */
 }
 .other-row td:nth-child(2) {
   color: var(--blue-color) !important;
@@ -2637,8 +2641,8 @@ tr {
 }
 .hours-change p {
   font-weight: 400;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 18px;
+  line-height: 28px;
   color: var(--para-color);
   margin-bottom: 30px;
 }
@@ -2653,10 +2657,10 @@ tr {
 .trade-global {
   margin-top: -95px;
 }
-.trade-global .cfd-head .market-head h2 {
+/* .trade-global .cfd-head .market-head h2 {
   width: 100%;
   max-width: 500px;
-}
+} */
 .account-hero {
   padding: 200px 0 100px;
 }
@@ -2770,8 +2774,8 @@ tr {
 .account-boxdata ul li {
   /* display: flex; */
   position: relative;
-  font-size: 12px;
-  line-height: 12px;
+  font-size: 14px;
+  line-height: 14px;
   font-weight: 400;
   color: #5b5a5d;
   margin-bottom: 14px;
@@ -3196,13 +3200,7 @@ padding: 40px 36px;
   grid-template-columns: repeat(4, 1fr);
   gap: 51px; 
 }
-/* .grid-container-value{
-  display: grid;
-  gap: 30px; 
-  grid-template-columns: repeat(3, 1fr);
-  justify-content: center; 
-  margin: 0 auto;
-} */
+
 .grid-container-value {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
@@ -3338,8 +3336,8 @@ padding: 40px 36px;
   margin-bottom: 20px;
 }
 .refer-form p{
-  font-size: 16px;
-  line-height: 16px;
+  font-size: 18px;
+  line-height: 20px;
   font-weight: 400;
   color: var(--blue-color);
   text-align: center;
@@ -3418,8 +3416,8 @@ padding: 40px 36px;
 }
 .refer-frd h2{
   font-weight: 600;
-  font-size: 40px;
-  line-height: 50px;
+  font-size: 48px;
+  line-height: 55px;
   margin-bottom: 15px;
   color: var(--blue-color);
 }
@@ -3466,8 +3464,8 @@ color: var(--yellow);
 }
 .refer-form label{
   font-weight: 400;
-  font-size: 16px;
-  line-height: 16px;
+  font-size: 18px;
+  line-height: 20px;
   margin-bottom: 12px;
 }
 .refer-friend{
@@ -3489,12 +3487,12 @@ color: var(--yellow);
   color: var(--blue-color);
 }
 .refer-work-content p{
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 26px;
+  line-height: 28px;
   color: var(--para-color);
   width: 100%;
-  max-width: 350px;
+  max-width: 450px;
   margin: 0 auto;
 }
 .refer-work .market-tab{

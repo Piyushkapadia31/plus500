@@ -265,9 +265,9 @@ font-size: 28px;
 .leverage-por .col-12:first-child {
   left: -113px;
 }
-.price .pricing-data .market-head h2 {
+/* .price .pricing-data .market-head h2 {
   font-size: 34px;
-}
+} */
 
 .available-keys {
   padding: 39px 32px;
@@ -578,7 +578,9 @@ font-size: 28px;
     line-height: 48px;
   }
   .cfd-hero-head p {
-    font-size: 16px;
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 30px;
     margin: 0 auto;
   }
   .cfd-why-trade {
@@ -902,6 +904,12 @@ footer .row {
 }
 .sread-data p{
   margin: 0 auto;
+  font-size: 16px;
+  line-height: 22px;
+}
+.margin-data p{
+  font-size: 16px;
+  line-height: 22px;
 }
 .commision-broker.common-bg-css{
   padding-bottom: 110px;
@@ -956,7 +964,11 @@ footer .row {
 }
 
 .mt4-img img {
-  margin-bottom: -25px;
+  margin-bottom: -9px;
+}
+.meta-version-para{
+  font-size: 16px;
+  line-height: 22px;
 }
 .mt_5-key .grid-container{
   grid-template-columns: repeat(2, 1fr);
@@ -1033,6 +1045,72 @@ footer .row {
 .account-trade .whytrade-cols h3{
   font-size: 18px;
   line-height: 24px;
+}
+.touch-form-right {
+  padding: 73px 25px;
+}
+.commision-h6 {
+  font-size: 16px;
+  line-height: 22px;
+}
+.faq .accordion-body p{
+  font-size: 16px;
+  line-height: 26px;
+}
+.faq .accordion-button{
+  font-size: 16px;
+  line-height: 22px;
+}
+.touch-form label{
+  font-size: 16px;
+  line-height: 22px;
+}
+.touch-form h2{
+  font-size:  40px;
+  line-height: 44px;
+}
+.demo-real{
+  padding-top: 88px;
+}
+.refer-frd h2{
+  font-size: 40px;
+  line-height: 44px;
+}.refer-frd p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.cfd-head p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.refer-eligibility p{
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+.refer-work-content p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.demoac-list li{
+  font-size: 16px;
+  line-height: 22px;
+}
+.demo-list li{
+  font-size: 16px;
+  line-height: 22px;
+}
+.pricing-data p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.hours-change p{
+  font-size: 16px;
+  line-height: 22px;
+}
+.werae-trade .whytrade-cols p{
+  font-size: 16px;
+  line-height: 22px;
 }
 }
 @media (max-width: 767px) {
@@ -2047,7 +2125,10 @@ table td{
   padding-left: 27px;
 } */
 .leverage-por.common-bg-css{
-  padding: 40px 0 100px;
+  padding: 70px 0 150px;
+}
+.leverage-por .col-12:first-child .responsive-leverage {
+  margin-top: -55px;
 }
 .trading-herosec.hero-pt {
   padding-top: 114px;
@@ -2294,7 +2375,8 @@ table td{
       padding-top: 191px;
   }
   .metatrad_2 {
-    height: 73vh;
+    /* height: 73vh; */
+    height: 83vh;
 }
 .weare-hero.demoaccount-hero {
   height: 69vh !important;
