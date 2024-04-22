@@ -98,12 +98,13 @@
     <section class="reward"  data-aos="fade-up">
         <div class="container">
           <div class="reward-content">
-            <div class="owl-carousel owl-theme ">
+            <div class="owl-carousel owl-theme slider">
               <div class="item">
               <div class="row">
                 <div class="col-sm-7 col-12 order-2 order-sm-1 d-flex justify-content-between flex-column">
                   <div>
-                    <h6 class="slide-counter"></h6>
+                    <!-- <h6 class="slide-counter"></h6> -->
+                    <h6 class="slider-counter"></h6>
                     <h3>Plus500 Rewards</h3>
                     <p>Earn V-Points with every trade you make, and redeem exclusive vouchers. Join Plus500 Rewards Today!</p>
                   </div>
@@ -120,7 +121,8 @@
                 <div class="row" >
                   <div class="col-sm-7 col-12 order-2 order-sm-1 d-flex justify-content-between flex-column" >
                     <div>
-                      <h6 class="slide-counter"></h6>
+                      <!-- <h6 class="slide-counter"></h6> -->
+                      <h6 class="slider-counter"></h6>
                       <h3>Deposit Bonus</h3>
                       <p>Boost your trades - Double your deposit with our 50% bonus offered for new deposits! Deposit and trade from your home country, whether you are from Philippines, Thailand, or beyond.</p>
                     </div>
@@ -137,7 +139,8 @@
                 <div class="row">
                   <div class="col-sm-7 col-12 order-2 order-sm-1 d-flex justify-content-between flex-column">
                     <div>
-                      <h6 class="slide-counter"></h6>
+                      <!-- <h6 class="slide-counter"></h6> -->
+                      <h6 class="slider-counter"></h6>
                       <h3>13% p.a. Funds Growth</h3>
                       <p>Deposit and trade to unlock interest of 13% p.a. and grow your idle funds like never before!</p>
                     </div>
@@ -690,7 +693,7 @@
               <p>Plus500 is a global fintech firm providing online trading services in contracts for difference, share dealing, futures trading and options on futures. </p>
             </div>
           </div>
-          <div class="col-6 col-lg-2 " >
+          <div class="col-6 col-lg-2" >
             <div class="footer-content">
               <h3>Learn More</h3>
               <ul>
@@ -743,7 +746,21 @@
    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/gsap-latest-beta.min.js?r=5426"></script>
    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/ScrollTrigger.min.js"></script>
    <script src="js/main.js"></script>
-   
+   <script>
+    
+$('.slider').on('initialized.owl.carousel changed.owl.carousel', function(e) {
+    if (!e.namespace)  {
+      return;
+    }
+    var carousel = e.relatedTarget;
+    $('.slider-counter').text(carousel.relative(carousel.current()) + 1 + '.');
+  }).owlCarousel({
+    items: 1,
+    loop:true,
+    margin:0,
+    nav:false
+  });
+   </script>
   
 </body>
 </html>
