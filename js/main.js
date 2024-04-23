@@ -4,7 +4,7 @@ $(document).ready(function () {
   owl.owlCarousel({
     loop: true,
     margin: 10,
-    nav: true,
+    nav: false,
     navText: ["1"],
     // dots:false,
     responsive: {
